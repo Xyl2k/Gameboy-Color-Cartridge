@@ -1,4 +1,6 @@
-# Gameboy-Color-Cartridge
+![pcb](https://cloud.githubusercontent.com/assets/8536299/8457304/e146c708-2010-11e5-9932-e7d7e6fe1acc.png)
+
+### Homebrew Gameboy Color Cartridge
 Board layout for a SST 27VF256 powered GB cartridge.
 
 	01 - VCC
